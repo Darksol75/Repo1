@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 50F1-4D90
+
+ R‚pertoire de C:\Projects\Project01
+
+19/05/2017  20:14    <DIR>          .
+19/05/2017  20:14    <DIR>          ..
+19/05/2017  20:14                 0 Test01.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  898ÿ265ÿ939ÿ968 octets libres
